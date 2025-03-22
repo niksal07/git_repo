@@ -1,6 +1,6 @@
 name: Build and Store Artifacts
 
-on: [push]
+on: [pull]
 
 jobs:
   build:
